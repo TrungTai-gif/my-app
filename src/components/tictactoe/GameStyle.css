@@ -37,4 +37,8 @@
   .game-board {
     width: 320px;
   }
+  .game-cell {
+    font-size: 80px;
+    font-weight: 600;
+  }
 }
