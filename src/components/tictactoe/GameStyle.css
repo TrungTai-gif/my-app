@@ -33,7 +33,7 @@
 .is-o {
   color: #FF6651;
 }
-@media screen and (max-width: 667px){
+@media screen and (max-width: 1023.8px){
   .game-board {
     width: 320px;
   }
